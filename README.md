@@ -1,4 +1,4 @@
-<h1>Yo!, How's it going?</h1>
+<h1>Yo! How's it going?</h1>
 
 <p>My name is Edy and I'm currently CTO, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>São Paulo, Brasil</b>. </p>
 
