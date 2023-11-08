@@ -1,6 +1,7 @@
 <h1>Yo! How's it going?</h1>
 
-<p>My name is Edy and I'm currently CTO, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>São Paulo, Brasil</b>. </p>
+<p>My name is Edy and I'm currently CTO</p>
+<p>I'm from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b> São Paulo, Brasil</b>.</p>
 
 ## About me
 - ✨ Developer since 2015 and Leader since 2018
