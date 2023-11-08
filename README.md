@@ -9,10 +9,10 @@
 - 🎯 Goals: earn in dollar 💰 / Speak English 🚀
 - 💼 Currently CEO at Recebafacil and CTO at Fpass
 
-Major Skills: Scalable, high-performance teams with methodology and process, Scalable Projects with any Tecnology but mainly Javascript Projects.
-Minor Skills: Senior React with NextJS and Senior NodeJS with Typescript.
+<p><b>Major Skills:</b> Scalable, high-performance teams with methodology and process, Scalable Projects with any Tecnology but mainly Javascript Projects.</p>
+<p><b>Minor Skills:</b> Senior React with NextJS and Senior NodeJS with Typescript.</p>
 
-Main favorite tools for managing teams:
+## Main favorite tools for managing teams:
 - Jira or Trello (Kaban)
 - Team Gantt (Project Monitoring)
 - Planning Poker (Planning)
