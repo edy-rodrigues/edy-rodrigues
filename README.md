@@ -7,7 +7,7 @@
 - ✨ Developer since 2015 and Leader since 2018
 - 📚 I'm currently learning Design Patterns and Scalable Projects in the Javascript ecossystem
 - 🎯 Goals: Speak English 🚀
-- 💼 Currently CEO at Recebafacil and CTO at Fpass
+- 💼 Currently CTO at Fpass
 
 <p><b>Major Skills:</b> Scalable, high-performance teams with methodology and process, Scalable Projects with any Tecnology but mainly Javascript Projects.</p>
 <p><b>Minor Skills:</b> Senior React with NextJS and Senior NodeJS with Typescript.</p>
